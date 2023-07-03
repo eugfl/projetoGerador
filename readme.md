@@ -1,7 +1,7 @@
 <strong><h1 align="center">Projeto Gerador</h1></strong>
 
 <p align="center">
-  <img alt="" src="/assets/preview.jpeg width="100%">
+  <img alt="" src="assets/preview.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
